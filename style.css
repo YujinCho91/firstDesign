@@ -52,7 +52,7 @@ h2 {
 
 .btn:link,
 .btn:visited {
-  background-color: #087f5b;
+  background-color: rgb(29, 126, 114);
   color: white;
   text-decoration: none;
   text-transform: uppercase;
@@ -64,7 +64,7 @@ h2 {
 
 .btn:hover,
 .btn:active {
-  background-color: #09926b;
+  background-color: #0cb686;
 }
 .btn--big {
   font-size: 18px;
@@ -153,8 +153,8 @@ img {
 
 .testimonial-text {
   font-style: italic;
-  margin-bottom: 24px;
-  font-size: 18px;
+  margin-bottom: 20px;
+  font-size: 17px;
   line-height: 1.7;
   color: #e6fcf5;
 }
